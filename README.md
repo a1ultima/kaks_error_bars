@@ -1,6 +1,6 @@
 **Requirements / How to use**
 
-For this delicious dish, You WILL need the following ingredients: 
+For this dish, You WILL need the following ingredients: 
 
  1. A pair of DNA sequences in a format that KaKs calculator accepts (e.g. ./example_kaks_calc_output.txt) 
 

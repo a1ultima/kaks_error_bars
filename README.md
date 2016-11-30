@@ -2,17 +2,17 @@
 
 For this delicious dish, You WILL need the following ingredients: 
 
-   \(i) a pair of DNA sequences in a format that KaKs calculator accepts (e.g. ./example_kaks_calc_output.txt) 
+   1. a pair of DNA sequences in a format that KaKs calculator accepts (e.g. ./example_kaks_calc_output.txt) 
 
-   \(ii) the KaKs calculator (read installation instructions: https://code.google.com/archive/p/kaks-calculator/), it's output data is what this R script needs for error bars
+   2. the KaKs calculator (read installation instructions: https://code.google.com/archive/p/kaks-calculator/), it's output data is what this R script needs for error bars
 
 You MIGHT also need:
 
-	(i) Windows (OR ubuntu)
+	1. Windows (OR ubuntu)
 
-	(ii) RStudio IDE (I have not used on any other IDE, maybe you don't need)
+	2. RStudio IDE (I have not used on any other IDE, maybe you don't need)
 
-	(iii) Latest version of R (Only tested on 2014+ versions)
+	3. Latest version of R (Only tested on 2014+ versions)
 
 You need to then follow this recipe: 
 

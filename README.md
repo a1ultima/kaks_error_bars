@@ -18,7 +18,7 @@ You need to then follow this recipe:
 
  1. Run the KaKs calculator (https://code.google.com/archive/p/kaks-calculator/), read the instructions and give the DNA sequences it needs
 
- 2. Run this R script, it will then prompt you for a data file (next step)
+ 2. Run this R script (./plot_kaks_err_bars.R), it will then prompt you for a data file (next step)
 
  3. Browse for your KaKs calculator output file, select it then click. There might be several output files, so here I have an example data file that you can use as a reference, it SHOULD work: ./example_kaks_calc_output.txt
 

@@ -4,6 +4,8 @@ The R script ([./plot_kaks_err_bars.R][3]), calculates error bars for dN/dS (a.k
 
 To help you explore your data, [./plot_kaks_err_bars.R][3] will make barplots of your dN/dS (a.k.a. Ka/Ks) values, adding the error bars onto each bar. One barplot per alternative dN/dS calculation method (e.g. NG, a.k.a. Nei-Gojobori method has its own barplot). X-axis: One bar per pair of DNA sequences (protein). Y-axis:  dN/dS with error bars. Running the script will prompt you for the location of the required [KaKs calculator][2] output file, in your system.
 
+--- 
+
 [**./plot_kaks_err_bars.R**][3]: Generates bar plots with error bars from KaKs Calculator's output file.
 
 [**./example_kaks_output.txt**][4]: Input: an example of input for [./plot_kaks_err_bars.R][3], do not worry about comamnd-line arguments, it will interactively prompt you to browse for the file in your system. Keep in mind, this required input is obtained as an output file by [KaKs calculator][2]. The format here is what you want to look for when you run [KaKs calculator][2] for your own DNA sequence pairs.

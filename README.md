@@ -1,8 +1,8 @@
 **Description** 
 
-The R script ([./plot_kaks_err_bars.R][3]), calculates error bars for dN/dS (a.k.a Ka/Ks) values, calculated for pairs of orthologous DNA sequences, one error bar per pair. The dN/dS values for each pair has to already be calculated by the [KaKs calculator][2], who will make an outputfile (e.g. [./example_kaks_output.txt][4]), only then will ./plot_kaks_err_bars.R be able to generate the error bars (see below for instructions/requirements). 
+The R script ([./plot_kaks_err_bars.R][3]), calculates error bars for dN/dS (a.k.a. Ka/Ks) values, calculated for pairs of [orthologous][1] DNA sequences, one error bar per pair. The dN/dS values for each pair has to already be calculated by the [KaKs calculator][2], who will make an outputfile (e.g. [./example_kaks_output.txt][4]), only then will ./plot_kaks_err_bars.R be able to generate the error bars (see below for instructions/requirements). 
 
-To help you explore your data, ./plot_kaks_err_bars.R will also make barplots of your dN/dS (a.k.a Ka/Ks) values, adding the error bars onto each bar. Y-axis is dN/dS and each bar on the X-axis is a different pair of DNA sequences. Here's an example: [./plots/kaks.png][5]. 
+To help you explore your data, [./plot_kaks_err_bars.R][3] will also make barplots of your dN/dS (a.k.a. Ka/Ks) values, adding the error bars onto each bar. Y-axis is dN/dS and each bar on the X-axis is a different pair of DNA sequences. Here's an example: [./plots/kaks.png][5]. 
 
 ---
  

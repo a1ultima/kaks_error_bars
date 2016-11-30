@@ -2,9 +2,9 @@
 
 For this delicious dish, You WILL need the following ingredients: 
 
-   (i) a pair of DNA sequences in a format that KaKs calculator accepts (e.g. ./example_kaks_calc_output.txt) 
+   \(i) a pair of DNA sequences in a format that KaKs calculator accepts (e.g. ./example_kaks_calc_output.txt) 
 
-   (ii) the KaKs calculator (read installation instructions: https://code.google.com/archive/p/kaks-calculator/), it's output data is what this R script needs for error bars
+   \(ii) the KaKs calculator (read installation instructions: https://code.google.com/archive/p/kaks-calculator/), it's output data is what this R script needs for error bars
 
 You MIGHT also need:
 

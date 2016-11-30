@@ -23,3 +23,5 @@ You need to then follow this recipe:
  3. Browse for your KaKs calculator output file, select it then click. There might be several output files, so here I have an example data file that you can use as a reference, it SHOULD work: ./example_kaks_calc_output.txt
 
  4. All done! The plot can be shown interactively, or uncomment CTRL+F: "@PLOT" line in the script to save to .PNG file kaks_error_bars
+
+ If you find that something does not work, or you see a conceptual issue with the code please do not hesitate to make a message on the GitHub repo. 

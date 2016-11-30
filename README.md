@@ -2,7 +2,7 @@
 
 For this dish, You WILL need the following ingredients: 
 
- 1. A pair of DNA sequences in a format that KaKs calculator accepts (e.g. ./example_kaks_calc_output.txt) 
+ 1. A pair (or multiple pairs) of [orthologous][1] DNA sequences in a format that KaKs calculator accepts, e.g. ./example_kaks_calc_output.txt has several pairs of HTLV-1 viral gene sequences' dN/dS data (each pair has one ortholog for HTLV-1 and one ortholog for STLV-1 virus). To be more specific you might need each pair of orthologous sequences to be already aligned, read the docs for KaKs Calculator if you are not sure.  
 
  2. The KaKs calculator (read installation instructions: https://code.google.com/archive/p/kaks-calculator/), it's output data is what this R script needs for error bars
 
@@ -31,3 +31,6 @@ You need to then follow this recipe:
 ---
 
 If you find that something does not work, or you see a conceptual issue with the code please do not hesitate to make a message on the GitHub repo. 
+
+
+[1]: http://homepage.usask.ca/~ctl271/857/def_homolog.shtml
